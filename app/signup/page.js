@@ -1,6 +1,6 @@
 "use client";
 import { useRouter } from "next/navigation";
-import AuthCard from "../components/AuthCard";
+import AuthCard from "..api/components/AuthCard";
 
 export default function Signup() {
   const router = useRouter();

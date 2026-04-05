@@ -1,3 +1,4 @@
 {
-  "/api/generate-text/route": "app/api/generate-text/route.js"
+  "/api/generate-text/route": "app/api/generate-text/route.js",
+  "/page": "app/page.js"
 }
